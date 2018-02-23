@@ -9,6 +9,6 @@
 В моем опросе поучаствовал *21 человек*. Большинство респондентов - мои ровесники, но для чистоты эксперимента я опросила людей и постарше.
 ## Ссылки
 #### Гугл форма:
-(https://docs.google.com/forms/d/e/1FAIpQLSdCIZbsO5Bz1HB2n6d3CxeT1KiU1Q3h1TJ_0EdfzdGzqM9Ssw/closedform)
+https://docs.google.com/forms/d/e/1FAIpQLSdCIZbsO5Bz1HB2n6d3CxeT1KiU1Q3h1TJ_0EdfzdGzqM9Ssw/closedform
 #### Таблица с ответами:
-(https://docs.google.com/spreadsheets/d/1BRIe0z_4CPRaME455sJoBWWFR0e-mb5dO1kmrx9MXfc/edit#gid=1725437188)
+https://docs.google.com/spreadsheets/d/1BRIe0z_4CPRaME455sJoBWWFR0e-mb5dO1kmrx9MXfc/edit#gid=1725437188
